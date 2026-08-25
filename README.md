@@ -18,13 +18,7 @@ Um cartão de perfil simples e elegante, dark mode por padrão, com links direto
 
 ## 🚀 Como rodar
 
-```bash
-git clone https://github.com/Nicolass-da-Silva/Social-Links-Profile.git
-
-cd social-links-profile
-```
-
-Depois é só abrir o `index.html` no navegador (ou usar uma extensão como Live Server).
+Basta baixar os arquivos e abrir o `index.html` no navegador (ou usar uma extensão como Live Server).
 
 ## 📌 Status
 
