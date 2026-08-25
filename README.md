@@ -14,9 +14,7 @@ Um cartão de perfil simples e elegante, dark mode por padrão, com links direto
 
 ## 🛠️ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"/>
-<img width="40"/>
-<img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+<img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"/>  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
 
 ## 🚀 Como rodar
 
