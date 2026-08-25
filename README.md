@@ -1,4 +1,4 @@
-# Profile Social Links
+# Social Links Profile
 
 Um cartão de perfil simples e elegante, dark mode por padrão, com links diretos para redes sociais e portfólio. Feito apenas com HTML e CSS.
 
@@ -21,7 +21,7 @@ Um cartão de perfil simples e elegante, dark mode por padrão, com links direto
 ```bash
 git clone https://github.com/Nicolass-da-Silva/Social-Links-Profile.git
 
-cd profile-social-links
+cd social-links-profile
 ```
 
 Depois é só abrir o `index.html` no navegador (ou usar uma extensão como Live Server).
