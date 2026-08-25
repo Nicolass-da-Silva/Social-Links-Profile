@@ -1,0 +1,12 @@
+# VS Code
+.vscode/
+
+# Sistema Linux Pop!_OS
+*~
+.directory
+.DS_Store
+Thumbs.db
+
+# Segurança e Futuro
+.env
+node_modules/
